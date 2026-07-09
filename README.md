@@ -21,7 +21,7 @@ TailAdmin provides essential UI components and layouts for building feature-rich
 
 ## Quick Links
 
-- [Demo Free Version](https://your-free-demo-link-here)
+- [Demo Free Version](https://nextjs-free-demo.tailadmin.com/)
 
 ## Installation
 
